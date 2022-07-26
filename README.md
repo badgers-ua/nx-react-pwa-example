@@ -6,7 +6,7 @@
 
 ## Info
 
-PWA features are not available on `localhost`
+PWA features are not available on `localhost`, so to view offline PWA in action you'll have too build app using `npm run build pwa` and deploy it somewhere (github pages, firebase hosting etc).
 
 ## License
 
